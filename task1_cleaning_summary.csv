@@ -1,0 +1,10 @@
+Metric,Value
+Original row count,541909
+Original column count,8
+Duplicate rows in original dataset,5268
+Rows after duplicate removal,536641
+Exact duplicate rows removed,5268
+Missing cells in original dataset,136534
+Missing cells in cleaned dataset,136491
+Non-positive Quantity records,10587
+Non-positive UnitPrice records,2512
